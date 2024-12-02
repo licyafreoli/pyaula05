@@ -3,6 +3,8 @@
 
 Este repositório contém um conjunto de atividades práticas em Python, lesson 05. Cada atividade está organizada em pastas separadas, facilitando o acesso e a prática.
 
+---
+
 ## Activity Descriptions
 
 ### **Activity 01: Calculate Average of Three Grades**  
