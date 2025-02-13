@@ -2,8 +2,7 @@ def cadastrar_usuario(nome_arquivo):
     with open(nome_arquivo, 'a') as arquivo:
         nome = input("Digite o nome de usuário: ")
         senha = input("Digite a senha: ")
-        
-        # Armazena o nome e a senha no formato "usuario:senha"
+    
         arquivo.write(f"{nome}:{senha}\n")
         print("Usuário cadastrado com sucesso!")
 
